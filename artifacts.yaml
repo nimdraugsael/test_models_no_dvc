@@ -1,0 +1,5 @@
+churn2:
+  labels:
+  - cars
+  path: models/churn2
+  type: model

@@ -1,0 +1,5 @@
+frozen: true
+deps:
+- path: s3://my-model/churn2
+outs:
+- path: churn2
